@@ -3,6 +3,12 @@ body{
     color: #333333;
 }
 
+main{
+    padding: 2.5rem 0 0;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
 .btn{
     font-size: 1.25rem;
     width: 161px;
@@ -11,13 +17,13 @@ body{
     font-weight: 400;
     padding: 10px 20px;
     transition: background-color 0.3s, border 0.3s;
+     color: #ffffff;
 }
 
 .btn-outline{
     background-color: transparent;
     border: 2px solid #ffffff;
     line-height: 23px;
-    color: #ffffff;
 }
 
 .btn-filled{

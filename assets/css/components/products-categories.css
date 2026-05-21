@@ -4,7 +4,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px;
+    gap: 10px;
 }
 
 .category-card{
@@ -34,5 +34,20 @@
 
 .casual{
     background: url(../../images/products/tenis-casual.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.sport{
+    background: url(../../images/products/tenis-esporte.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.modern{
+    background: url(../../images/products/tenis-moderno.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.futuristic{
+    background: url(../../images/products/tenis-futurista.jpg) no-repeat center;
     background-size: cover;
 }
