@@ -40,7 +40,7 @@
 
 @media (max-width: 768px){
     .hero-section{
-        height: 660px;
+        height: 960px;
         background: url(../../images/banners/hero-mobile.jpg) no-repeat center;
         background-size: cover;
     }

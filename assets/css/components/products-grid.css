@@ -96,10 +96,10 @@
     }
 
     .top2, .bottomL{
-        min-height: 190px;
+        min-height: 275px;
     }
 
     .midL{
-        min-height: 370px;
+        min-height: 535px;
     }
 }
